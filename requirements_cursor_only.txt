@@ -1,0 +1,9 @@
+# Cursor Rules Manager 依賴
+# 只包含必要的 Python 標準庫，無需額外安裝
+
+# 注意：此腳本只使用 Python 標準庫
+# 不需要安裝任何額外的包
+
+
+
+
